@@ -1,0 +1,2 @@
+This is some test content to test the MOTD feature of the program.
+How does it look?
