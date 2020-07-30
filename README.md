@@ -1,2 +1,4 @@
 # a10-mqtt-testing-container
-self-contained testing tools for MQTT protocol
+Self-contained testing tools for MQTT protocol.
+
+{{ Placeholder -- code & docs comming soon...  }}
